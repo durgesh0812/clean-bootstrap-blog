@@ -1,0 +1,102 @@
+
+#bg-img{
+    background-image: url("coffee.jpg");
+    min-height: 520px;
+    min-width: 1000px;
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+#bg-img1{
+    background-image: url("indimg1.jpg");
+    min-height: 800px;
+    min-width: 1000px;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#bg-img2{
+    background-image: url("indimg2.jpg");
+    min-height: 800px;
+    min-width: 1000px;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+   
+}
+#bg-img3{
+    background-image: url("indimg3.jpg");
+    min-height: 800px;
+    min-width: 1000px;
+  
+    background-repeat: no-repeat;
+    background-size: cover;  
+   
+}
+#bg-img4{
+    background-image: url("aboutimg.jpg");
+    min-height: 800px;
+    min-width: 1000px;
+    
+    background-repeat: no-repeat;
+    background-size: cover; 
+   
+}
+
+#icon{
+    color: black;
+}
+.head1{
+    text-align: center;
+    font-size: 80px;
+    font-weight: 500px;
+    
+    
+}
+.head2{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 300;
+   
+
+}
+.login{ 
+    background-color: white;
+    border-color: white;
+   
+    position: fixed;
+    top:150px;
+    left:1350px;
+    margin: 0px;
+    
+    
+}
+.box{
+  
+    color: #212529;
+    font-family: Lora,Times New Roman,serif;
+}
+
+.Date{
+    font-style: italic;
+    position: absolute;
+    left: 390px;
+    font-size: 20px;
+}
+
+  h1:hover,p:hover{
+    color: aqua;
+    text-decoration: none;
+}
+#in{
+    height: 50px;
+    width: 300px;
+}
+.head3{
+    background-color: rgb(36, 34, 34);;
+    position: relative;
+    left: 200px;
+    padding-bottom: 80px;
+}
